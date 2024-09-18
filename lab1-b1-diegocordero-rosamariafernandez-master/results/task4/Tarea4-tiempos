@@ -1,0 +1,4 @@
+
+Comparando los resultados de ambos archivos de resultados, uno en local y otro en el entorno de devcloud hemos visto que la ejecución en local ha tardado menos que la de devcloud.
+
+El archivo "tarea" de la imagen es el resultado local mientras que "devcloud" es el remoto.

@@ -1,0 +1,2 @@
+Comando utilizado:
+advisor --collect=survey --project-dir=./advi_results --exclude-files=./src/foo --exclude-files=./src/bar 
